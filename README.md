@@ -15,6 +15,7 @@ Crear un objeto miCoche en el main y añadirle una puerta.
 Mostrar el número de puertas que tiene el objeto.
 
 
+
 public class Main { public static void main(String[] args) { int resultado; resultado = suma(8,4,6); System.out.println(resultado); }
 
     public static int suma (int a, int b, int c ) {
